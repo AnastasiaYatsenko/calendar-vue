@@ -1,6 +1,12 @@
-# .
+# Демо
 
-This template should help get you started developing with Vue 3 in Vite.
+https://anastasiayatsenko.github.io/calendar-vue/
+
+# Пояснения
+
+В качестве приера по стилю и архитектуре использовала календарь vuetlify (https://vuetifyjs.com/en/components/date-pickers/). Также изучила вот эту статью https://purpleschool.ru/knowledge-base/article/calendar
+
+Для работы с датами используется dayjs. Так как компонент маленький я не стала усложнять и не подключала препроцессоры, хранилище и слишком большое кол-во языков для переключения. Буду рада рассказать подробнее, как подошла бы к разработке такого компонента для полноценного приложения (что бы добавила, на что обраила внимание).
 
 ## Recommended IDE Setup
 
